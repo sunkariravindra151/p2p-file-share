@@ -1,9 +1,3 @@
-﻿# p2p-file-share
-Search files...
-Search files...
-Here is a comprehensive analysis and a suggested README description for your project, based on the code and structure:
-
----
 
 # P2P File Sharing System
 
